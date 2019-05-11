@@ -1,12 +1,16 @@
 == Apéndice
 
+[.chapter-subtitle--blurb]
 Acerca del Castillo de Colchester El lugar de encarcelamiento y muerte de James Parnell
 
 Los siguientes detalles respecto al castillo de Colchester,
 resumidos en un reporte amablemente proporcionado por un Amigo de Colchester,
 no serán indiferentes para el lector:
 
-El actual Castillo de Colchester es tan evidentemente Romano,
+[.small-break]
+'''
+
+"`El actual Castillo de Colchester es tan evidentemente Romano,
 que no cabe duda que fue erigido después de la conquista,
 cuando se construyeron fortalezas en las ciudades más importantes de Inglaterra,
 con miras a una más completa subyugación de los habitantes.
@@ -45,4 +49,4 @@ Esto nos dará una idea de la miseria y de la incomodidad de su situación exter
 Pero tenemos evidencia abundante y alentadora de que, en esta celda solitaria,
 disfrutó de la comodidad y el apoyo de la presencia de su Salvador; y,
 como Pablo y Silas,
-tenía un canto de alabanza puesto en su boca en medio de sus enemigos.
+tenía un canto de alabanza puesto en su boca en medio de sus enemigos.`"
