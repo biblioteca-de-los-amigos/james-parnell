@@ -355,9 +355,11 @@ parece haber sido la primera de sus publicaciones.
 Fue escrita en 1654, cuando tenía diecisiete años de edad.
 Se titula:
 
-"`Una prueba de la Fe: donde se descubre el fundamento de la fe de los hipócritas,
-que perece; y de la Fe de los Santos, fundada sobre la Roca Eterna;
-para que todos vean cuál es su fe y en qué confían.`"
+[.embedded-content-document.paper]
+--
+
+[.blurb]
+=== Una prueba de la Fe: donde se descubre el fundamento de la fe de los hipócritas, que perece; y de la Fe de los Santos, fundada sobre la Roca Eterna; para que todos vean cuál es su fe y en qué confían.
 
 ¡Vengan!
 Prueben su fe, todos ustedes profesantes de la piedad, de Dios y de Cristo,
@@ -569,15 +571,18 @@ fuera del Pacto de Dios, y por lo tanto no puede sino negarlos;
 y por esta causa él es odiado por todos, tanto sacerdotes como personas:
 cuyo nombre según el mundo es,
 
+[.signed-section-signature]
 James Parnell.
 
-[.asterism]
-'''
+--
 
 Los siguientes extractos de sus obras,
 nos permitirán formar alguna idea de su ministerio y de
 su trato directo con los profesantes carnales del Cristianismo,
 de los cuales se expresó así:
+
+[.embedded-content-document.paper]
+--
 
 Mas, alabado sea el Todopoderoso,
 que ha debilitado sus manos y ha hecho pedazos su fundamento
@@ -649,7 +654,13 @@ que son lavados y purificados por la Sangre del nuevo pacto;
 pero ustedes son ajenos y extraños de este pacto,
 ya que viven en meros conceptos y profesiones externas.
 
+--
+
+[.offset]
 En la misma obra Parnell describe así la verdadera Iglesia:
+
+[.embedded-content-document.paper]
+--
 
 Y con respecto a la Iglesia, ahora está siendo recogida y redimida,
 no por la voluntad del hombre, ni por la sabiduría del hombre,
@@ -802,10 +813,9 @@ y el Padre en el Hijo, y así todos son hechos perfectos en uno.
 Y aquí está la verdadera Iglesia, donde hay un Maestro, un Señor, una fe, un bautismo,
 una luz, una vida y un camino, un Pastor y un rebaño,
 y un Sacerdote sobre la casa de Dios.
-Aquí hay una esperanza, una lengua, una familia, un Dios y Padre de todos.`"
+Aquí hay una esperanza, una lengua, una familia, un Dios y Padre de todos.
 
-[.asterism]
-'''
+--
 
 Esto fue escrito en 1655,
 cuando James Parnell tenía entre diecisiete y dieciocho años de edad.
@@ -824,21 +834,28 @@ en Huntingdonshire, varios Bautistas con su maestro, Richard Elligood,
 entraron en la habitación. Después de un rato el maestro se levantó,
 y se dirigió a James Parnell:
 
+[.discourse-part]
 "`Señor, con su permiso, hablaré algo de lo que usted ha dicho.`"
 
+[.discourse-part]
 James Parnell respondió: "`Aquí no hay necesidad de cumplidos.`"
 
+[.discourse-part]
 El maestro continuó: "`Usted ha dicho que Dios no considera ninguna forma,
 y sin embargo usted usó la forma, y así usó aquello que Dios no ha considerado.`"
 
+[.discourse-part]
 Y al preguntarle qué forma había sido usada, el maestro respondió: "`La letra escrita.`"
 
+[.discourse-part]
 A lo que respondió James Parnell:
 "`El que usa la letra escrita para hablar de ella sin la vida y el poder,
 establece una forma y hace una forma.`"
 
-Esta respuesta satisfizo a la gente, pero el maestro siguió discutiendo.
+[.small-break]
+'''
 
+Esta respuesta satisfizo a la gente, pero el maestro siguió discutiendo.
 Así que James Parnell dijo: "`Una forma es: la semejanza de una cosa,
 pero no la cosa misma; tales como los que tienen la semejanza de una iglesia,
 con sus ancianos, pastores y maestros, pero no la Iglesia misma.
@@ -978,6 +995,10 @@ dirigida a Edward Burrough y a Francis Howgill, puede ser insertada en este luga
 Está fechada el "`día 18 del mes 5.`" No cabe duda que fue escrita en 1655,
 y presenta muchos puntos de interés:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Queridos amigos y hermanos:
 
 En el eterno e inmutable amor y vida del nuevo pacto,
@@ -1085,17 +1106,25 @@ como señales y prodigios en una generación adúltera.
 Que el Señor Dios prospere e incremente Su gloriosa obra en ellos y entre ellos,
 con brazo fuerte y poder para derrotar a sus enemigos delante de ellos.
 
+[.signed-section-signature]
 James Parnell.
 
+[.signed-section-context-close]
 Esto de Cambridge, 18 del 5to mes.
 
+[.postscript]
 Me alegraré de oír de George, o de cualquiera de ustedes.
+
+--
 
 Parece conveniente insertar en este lugar el siguiente extracto,
 que constituye la conclusión de una de las obras de James Parnell,
 titulada "`Escudo de la Verdad,`" en la que menciona brevemente algunas
 de las acusaciones presentadas contra los Amigos y la respuesta a ellas,
 frecuentemente con notable claridad:
+
+[.embedded-content-document.treatise]
+--
 
 Y ahora algo a todos ustedes, los de tierno corazón,
 que están convencidos por la Luz de Dios en sus conciencias la cual las hace tiernas.
@@ -1148,14 +1177,22 @@ y deseo que todos ustedes puedan experimentarlo conmigo.
 Porque el amor es caridad, y la Luz conduce a través de todo.
 Así que descanso en mi morada, conocido por todos los que me pueden leer en el Espíritu.
 
+[.signed-section-closing]
 Adiós,
 
+[.signed-section-signature]
 James Parnell.
+
+--
 
 El siguiente artículo, escrito en 1655, se leerá con gran interés,
 especialmente cuando consideramos la juventud del autor:
 
-Una palabra a todos los que todavía están en sus propias formas, acciones e imitaciones.
+[.embedded-content-document.paper]
+--
+
+[.blurb]
+=== Una palabra a todos los que todavía están en sus propias formas, acciones e imitaciones.
 
 Ustedes están actuando en esa naturaleza que es "`enemistad
 contra Dios,`" la cual "`no se sujeta a la ley de Dios,
@@ -1283,7 +1320,10 @@ y esta es su condenación. Ahora,
 el camino es claro para todos los sencillos que tienen el deseo de encontrarlo.
 Declarado por un amigo y testigo de la Verdad Eterna.
 
+[.signed-section-signature]
 James Parnell.
+
+--
 
 James Parnell,
 habiendo trabajado diligentemente en Cambridgeshire y Huntingdonshire pasó a Essex,
@@ -1391,6 +1431,10 @@ obtenida de la Reunión Mensual de Colchester, fue dirigida a Stephen Crisp,
 probablemente poco tiempo después de su convencimiento.
 Esta carta no tiene fecha.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Amigo,
 
 Esté firme y mantenga su mente en eso que le permite
@@ -1443,7 +1487,10 @@ humíllese bajo la voluntad de Dios y espere Sus enseñanzas, para que Él sea s
 y encontrará el camino de la paz y habitará en unidad con los fieles.
 Y aunque usted es odiado por el mundo, sin embargo, en Dios tendrá paz y bienestar.
 
+[.signed-section-signature]
 James Parnell.
+
+--
 
 Unos diez años después,
 Stephen Crisp fue llamado a escribir un testimonio
@@ -1456,7 +1503,10 @@ Después de hablar de la gran obra que el Señor por Su propio
 brazo de poder había hecho en aquellos días,
 él continúa diciendo:
 
-"`Los bebés han sido Sus mensajeros, y los niños han sido Sus ministros,
+[.embedded-content-document.testimony]
+--
+
+Los bebés han sido Sus mensajeros, y los niños han sido Sus ministros,
 quienes en inocencia han recibido la revelación de Su Santo Espíritu,
 por el cual han sido reveladas las cosas profundas de Su ley y
 de Su glorioso Evangelio de vida y salvación. Y entre estos bebés,
@@ -1467,12 +1517,12 @@ derribando y desolando muchas fortalezas poderosas y torres de defensa en las
 que el antiguo engañador se había fortalecido a sí mismo y a sus hijos.
 Se podría hablar mucho de este joven,
 y un gran testimonio vive en mi corazón de su bendita vida,
-y del poder y sabiduría que abundaban en él.`"
+y del poder y sabiduría que abundaban en él.
 
+[.signed-section-signature]
 Stephen Crisp.
 
-[.asterism]
-'''
+--
 
 La diligencia con la que trabajó James Parnell,
 y el ardiente deseo de la gente por oír la Verdad,
@@ -1726,10 +1776,15 @@ pero por muy poco tiempo.
 En una carta escrita a un amigo, poco después de la sesión judicial,
 él narra algunos de los ultrajes a los que él fue sometido, y así concluye la narración:
 
-"`Aquí soy mantenido como prisionero; pero soy el hombre libre del Señor,
+[.embedded-content-document.letter]
+--
+
+Aquí soy mantenido como prisionero; pero soy el hombre libre del Señor,
 y sé ciertamente que Él juzgará y vengará mi causa sobre mis adversarios.
 Y así descanso confiadamente en Él, que no me dejará ni me desamparará,
-por quien sufro cadenas, en el tiempo de Su buena voluntad y placer.`"
+por quien sufro cadenas, en el tiempo de Su buena voluntad y placer.
+
+--
 
 Pero mientras aquellos que deseaban consolarlo y aliviarlo, fueron abusados y expulsados,
 los que iban a insultarlo y a despreciarlo, se les permitía entrar libremente.
@@ -1853,7 +1908,11 @@ escritos desde la celda de James Parnell, serán interesantes, así como instruc
 Poco después de que él fue recluido en el Castillo de Colchester,
 él escribió la siguiente epístola:
 
-Unas pocas palabras a todos mis queridos amigos, en y alrededor del Condado de Essex.
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== Unas pocas palabras a todos mis queridos amigos, en y alrededor del Condado de Essex.
 
 Y a todos ustedes, queridos amigos, esparcidos y despreciados, a quienes el Señor,
 por Su poderosa Palabra, está ahora recogiendo de las tinieblas a la luz maravillosa,
@@ -1934,16 +1993,24 @@ Así, en la inmutable Verdad yo descanso, en unidad con todos los fieles,
 en la gloriosa libertad de los hijos de Dios,
 aunque en cautiverio externo por el bien de ustedes.
 
+[.signed-section-closing]
 Conocido por todos los que me pueden leer en espíritu,
 
+[.signed-section-signature]
 James Parnell.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 A los Amigos en Essex.
 
-Amigos: A este don de Dios, en todas sus conciencias, le hablo,
+[.salutation]
+Amigos:
+
+A este don de Dios, en todas sus conciencias, le hablo,
 el cual allí es testigo de Dios, y es conforme a la mente de Dios,
 y está puesto en sus corazones para ser su maestro,
 para enseñarles a hacer la voluntad de Dios, y cómo caminar según la mente de Dios,
@@ -2095,15 +2162,18 @@ no sea que añadan aflicción a las cadenas del Evangelio.
 Esto de un amigo, que es conocido en espíritu,
 quien por amor de la Semilla inocente sufre las cadenas del Evangelio.
 
+[.signed-section-signature]
 James Parnell.
 
-Desde el castillo de Colchester.
+[.signed-section-context-close]
+Desde el castillo de Colchester. Mes 11, 1655.
 
-Mes 11, 1655.
+--
 
-[.asterism]
-'''
+[.embedded-content-document.letter]
+--
 
+[.salutation]
 Para mi querido hermano William Dewsbury en la cárcel común en Northampton,
 
 Querido y precioso hermano en la eterna e inmutable Verdad de Dios, yo, en mi medida,
@@ -2138,13 +2208,18 @@ Así que el mismo poder que te mantiene, me mantenga;
 y que tus oraciones sean por mí. Yo descanso contigo en la unidad fraternal,
 tu tierno hermano,
 
+[.signed-section-signature]
 James Parnell.
 
+[.signed-section-context-close]
 Castillo de Colchester, 16 del mes 12, 1655.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 Una Epístola a los Amigos
 
 Todos ustedes amigos de la Luz,
@@ -2265,10 +2340,14 @@ Porque verdaderamente, la vergüenza debe llegar a toda carne,
 y ustedes no deben tener ni siquiera un delantal
 de hojas de higuera para cubrir su desnudez.
 
+[.signed-section-signature]
 James Parnell
 
+[.postscript]
 +++[+++Esta epístola no tiene fecha,
 pero no hay duda de que fue escrita desde el castillo de Colchester.]
+
+--
 
 La siguiente carta lleva la última fecha de cualquiera de los escritos de James Parnell,
 hasta donde he podido descubrir.
@@ -2277,7 +2356,11 @@ pero como había muchas cartas escritas por él durante su confinamiento
 en el castillo de Colchester las cuales no se han conservado,
 probablemente esta no es la última que él escribió: esta está dirigida a:
 
-Mis queridos Amigos, hermanos y hermanas en la ciudad de Londres.
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
+Mis queridos Amigos, hermanos y hermanas en la ciudad de Londres:
 
 Mi amor fluye de la vida hacia ustedes que son convertidos
 y renovados en corazón y mente;
@@ -2372,9 +2455,16 @@ Los encomiendo a su bendita protección,
 yo que sufro en cadenas externas por la voluntad de los hombres,
 por causa de la Semilla inocente, pero que estoy en libertad con los fieles.
 
+[.signed-section-signature]
 James Parnell.
 
-Escrito desde el Castillo de Colchester, "`El 12 del primer mes, 1656.
+[.signed-section-context-close]
+Escrito desde el Castillo de Colchester,
+
+[.signed-section-context-close]
+El 12 del primer mes, 1656.
+
+--
 
 Estas cartas llevan un sello precioso,
 las cuales evidencian al escritor como un verdadero hijo de Dios a través de Jesucristo.
