@@ -1,4 +1,5 @@
-.back .back__safe .blurb {
-  font-size: 0.1087in;
-  overflow: visible;
+#__id__ .back .back__safe .blurb {
+  font-size: 0.1065in;
+  padding-top: 1.4em;
 }
+
