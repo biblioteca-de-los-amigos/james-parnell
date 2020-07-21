@@ -1113,7 +1113,11 @@ James Parnell.
 Esto de Cambridge, 18 del 5to mes.
 
 [.postscript]
+====
+
 Me alegraré de oír de George, o de cualquiera de ustedes.
+
+====
 
 --
 
@@ -2344,8 +2348,12 @@ de hojas de higuera para cubrir su desnudez.
 James Parnell
 
 [.postscript]
+====
+
 +++[+++Esta epístola no tiene fecha,
 pero no hay duda de que fue escrita desde el castillo de Colchester.]
+
+====
 
 --
 
